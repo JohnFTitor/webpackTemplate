@@ -1,4 +1,4 @@
-import './styles/main.css';
+import './styles/main.scss';
 
 const element = document.createElement('h1');
 
