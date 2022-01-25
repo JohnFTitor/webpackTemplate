@@ -42,6 +42,11 @@ Such dependencies include webpack and linters checks, for which you have to eith
 Note: If you're a Microverse's Student, you should use the config files provided by the program.
 [Linters Config HTML/CSS and JS](https://github.com/microverseinc/linters-config/tree/master/html-css-js)
 
+#### About WebPack deploy to Github Pages
+
+The dependencies and configuration are all set to deploy the dist folder to a ```gh-pages``` branch. The only thing you need to do is to change the ```publicPath``` 
+inside webpack.config.js to match the one of your project.   
+
 ### Usage
 
 You're free to use this project however you like it for educational purposes. Just keep in mind the acknowledgment described below
