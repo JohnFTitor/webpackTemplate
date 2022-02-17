@@ -4,7 +4,7 @@
 
 > Project headline description
 
-![Preview](./preview.gif))
+![Preview](./preview.gif)
 
 Project Description
 
